@@ -1,3 +1,3 @@
-Template.postsItem.helpers({
+Template.postItem.helpers({
 	domain: 'baidu.com'
 });
